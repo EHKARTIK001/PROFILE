@@ -1,1 +1,20 @@
-# PROFILE
+### Hi there! 👋 I'm Kartik Bajpai  
+
+🚀 *A passionate BCA 1st Year Student*  
+
+- 🌱 I'm currently learning *Data Structures and Algorithms*  
+- 📫 How to reach me: *your-email@example.com*  
+- ⚡ Fun fact: *I love coding and exploring new technologies!*  
+
+### 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+
+### 🛠 Languages and Tools:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### 📊 GitHub Stats:  
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Bajpai&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Bajpai&layout=compact&theme=dark)
