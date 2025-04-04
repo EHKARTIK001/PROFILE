@@ -4,7 +4,7 @@ A passionate Developer exploring *Cybersecurity, Backend Development, and Machin
 
 ---
 
-<img align="right" alt="GIF" src="https://your-gif-link.com" width="250px"/>
+<img align="right" alt="GIF" src="C:\Users\ehkar\Downloads\Animation - 1743763811154 (1).gif" width="250px"/>
 
 🚀 Currently working on *Traces*  
 🌱 Learning *Cybersecurity & Machine Learning*  
