@@ -1,25 +1,32 @@
-### Hi there! 👋 I'm Kartik Bajpai  
+# Hi 👋, I'm Kartik  
 
-🚀 *A passionate BCA 1st Year Student*  
+A passionate Developer exploring *Cybersecurity, Backend Development, and Machine Learning*.  
 
-- 🌱 I'm currently learning *Data Structures and Algorithms*  
-- 📫 How to reach me: *bajpaikartik001@gmail.com*  
-- ⚡ Fun fact: *I love coding and exploring new technologies!*
-- <img align="right" alt="Profile Image" width="200px" src="https://github.com/EHKARTIK001/PROFILE" />
+---
 
-- ### PROFILE COUNT
-- ![Profile Views](https://komarev.com/ghpvc/?username=Kartik-Bajpai&color=blue)
-- 
+<img align="right" alt="GIF" src="https://your-gif-link.com" width="250px"/>
 
-### 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-bajpai-a66932316/)  
+🚀 Currently working on *Traces*  
+🌱 Learning *Cybersecurity & Machine Learning*  
+💬 Ask me about *Backend Development & APIs*  
+📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)  
 
-### 🛠 Languages and Tools:  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  
-### 📊 GitHub Stats:
-![EHKARTIK001's GitHub stats](https://github-readme-stats.vercel.app/api?username=EHKARTIK001&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EHKARTIK001&layout=compact&theme=dark)
+---
+
+## 🚀 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EHKARTIK001&show_icons=true&theme=tokyonight" width="47%" />  
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=EHKARTIK001&theme=tokyonight" width="47%" />  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHKARTIK001)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
