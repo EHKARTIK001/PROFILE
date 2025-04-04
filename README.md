@@ -5,6 +5,7 @@
 - 🌱 I'm currently learning *Data Structures and Algorithms*  
 - 📫 How to reach me: *bajpaikartik001@gmail.com*  
 - ⚡ Fun fact: *I love coding and exploring new technologies!*
+- <img align="right" alt="Profile Image" width="200px" src="https://github.com/EHKARTIK001/PROFILE" />
 
 - ### PROFILE COUNT
 - ![Profile Views](https://komarev.com/ghpvc/?username=Kartik-Bajpai&color=blue)
